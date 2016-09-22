@@ -1,0 +1,6 @@
+{
+  "name": "CCTV Player",
+  "tagline": "",
+  "body": "### Welcome to CCTV Player support page.\r\nCCTV Player is a video-stream player\r\n- this is video only (no audio) player;\r\n- only rtsp ip cameras are currently supported.\r\n- to watch video stream please use connection url from your service provider.\r\n\r\n### Support or Contact\r\nHaving trouble with CCTV Player? [Contact support](alexander.gorskih@gmail.com) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
